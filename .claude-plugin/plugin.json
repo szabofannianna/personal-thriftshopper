@@ -1,0 +1,10 @@
+{
+  "name": "online-thrift-assistant",
+  "version": "0.1.0",
+  "description": "A personal second-hand shopper for Vinted: keeps your wishlist in Notion, searches several times a week across languages and countries, filters out what breaks your rules, and gives you one photo page of the finds worth opening, ranked by a taste it learns from your favourites.",
+  "author": {
+    "name": "Fanni Szabó"
+  },
+  "license": "MIT",
+  "keywords": ["second-hand", "thrift", "vinted", "shopping", "wishlist", "notion", "taste"]
+}
